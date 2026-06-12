@@ -1,0 +1,31 @@
+Country,Region,GDP_per_capita,Pop_growth_rate,Urban_pop_pct,Agri_land_pct,Life_expectancy,Literacy_rate,Electricity_access
+Nigeria,West Africa,2085,2.55,52.0,78.0,54.3,62.0,55.4
+Ethiopia,East Africa,936,2.57,22.0,34.3,65.5,51.8,44.3
+South Africa,Southern Africa,6527,1.37,68.0,,63.9,95.0,84.0
+Egypt,North Africa,3548,1.94,43.0,56.0,71.8,75.2,100.0
+Kenya,East Africa,2094,2.29,28.0,67.6,66.7,,75.0
+Ghana,West Africa,2202,2.17,58.0,69.1,64.1,79.0,79.3
+Tanzania,East Africa,1083,2.96,36.0,39.5,,77.9,38.0
+Morocco,North Africa,3204,1.20,64.0,66.7,76.7,73.8,100.0
+Algeria,North Africa,3691,1.85,74.0,17.4,76.9,81.4,
+Sudan,East Africa,750,2.47,35.0,100.0,65.1,60.7,45.0
+Angola,Southern Africa,3432,3.27,68.0,47.4,61.1,71.1,46.0
+Mozambique,Southern Africa,490,2.95,38.0,56.3,60.9,,29.0
+Uganda,East Africa,883,3.62,26.0,71.2,63.4,76.5,41.9
+Cameroon,Central Africa,1536,2.59,58.0,70.5,59.3,77.1,62.7
+Ivory Coast,West Africa,2286,2.58,53.0,64.7,57.8,53.1,69.7
+Zimbabwe,Southern Africa,1463,1.46,32.0,42.5,61.2,88.7,38.2
+Zambia,Southern Africa,1305,2.93,45.0,31.3,,87.5,43.9
+Senegal,West Africa,1596,2.82,48.0,45.9,67.9,51.9,70.0
+Tunisia,North Africa,3447,0.98,69.0,64.2,76.7,81.8,100.0
+Rwanda,East Africa,820,2.58,17.0,74.5,68.7,73.2,43.0
+Mali,West Africa,869,3.03,44.0,72.8,59.3,30.8,51.0
+Niger,West Africa,553,3.84,17.0,35.1,62.4,,18.0
+Burkina Faso,West Africa,775,2.82,31.0,43.0,61.6,46.0,20.0
+Guinea,West Africa,1066,2.94,36.0,76.0,61.2,30.4,45.0
+Benin,West Africa,1360,2.72,48.0,59.2,61.8,42.4,41.0
+Madagascar,East Africa,528,2.69,39.0,71.0,67.0,76.5,24.0
+Malawi,Southern Africa,645,2.97,17.0,48.7,64.3,62.1,
+Botswana,Southern Africa,7962,1.88,71.0,45.5,69.6,88.5,70.0
+Namibia,Southern Africa,4971,2.00,52.0,,63.7,91.5,51.0
+Gabon,Central Africa,8820,2.46,90.0,18.9,66.5,84.0,91.7
