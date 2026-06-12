@@ -11,9 +11,9 @@
 Implementation of Principal Component Analysis from scratch using **NumPy only**, applied to an Africanized socioeconomic dataset covering 30 African countries and 7 indicators (GDP per capita, population growth rate, urbanisation, agricultural land use, life expectancy, literacy rate, electricity access).
 
 ## Google Colab Notebook
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1thQm1ooSZfLgF1kbc7CS0I8RozzrqGoL?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kg0ZSS8lVsxVzsz5MZEE_JHHef2RJCmQ?usp=sharing)
 
-> [https://colab.research.google.com/drive/1thQm1ooSZfLgF1kbc7CS0I8RozzrqGoL?usp=sharing](https://colab.research.google.com/drive/1thQm1ooSZfLgF1kbc7CS0I8RozzrqGoL?usp=sharing)
+> [https://colab.research.google.com/drive/1Kg0ZSS8lVsxVzsz5MZEE_JHHef2RJCmQ?usp=sharing](https://colab.research.google.com/drive/1Kg0ZSS8lVsxVzsz5MZEE_JHHef2RJCmQ?usp=sharing)
 
 ## Steps Covered
 1. Data loading & Africanization
